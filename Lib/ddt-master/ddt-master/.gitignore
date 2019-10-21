@@ -1,0 +1,12 @@
+*.orig
+*.pyc
+*.swp
+build/
+dist/
+ddt.egg-info/
+.coverage
+/cover/
+/docs/_build/
+.tox
+.ropeproject
+venv/

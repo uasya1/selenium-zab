@@ -1,0 +1,2 @@
+test:
+  script: cat GetLog.py | grep -q 'Logging files of autotests'
